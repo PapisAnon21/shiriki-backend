@@ -1,0 +1,12 @@
+[submodule "RecordingManager-r"]
+	path = RecordingManager-r
+	url = https://github.com/g-r-7/RecordingManager.git
+[submodule "IA-t"]
+	path = IA-t
+	url = https://github.com/sakanokoh/TransDic2ShirikiEye.git
+[submodule "multi-camera-a"]
+	path = multi-camera-a
+	url = https://github.com/marieme596/recuperation-flux-camera.git
+[submodule "front-s"]
+	path = front-s
+	url = https://github.com/marieme596/ShirikiEye-expanded-camera-solution.git
